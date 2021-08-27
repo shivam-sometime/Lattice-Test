@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lattice</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="full_name">Full Name *</string>
+    <string name="gender">Gender * </string>
+    <string name="dob">DOB * </string>
+    <string name="address_line_1">Address Line 1 *</string>
+    <string name="address_line_2">Address Line 2 *</string>
+    <string name="pincode">Pincode * </string>
+    <string name="check">Check</string>
+    <string name="district">District * </string>
+    <string name="state">State * </string>
+    <string name="register">Register</string>
+
+    <string name="make_sure_you_have_an_active_data_connection">Make sure you have an active data connection</string>
+    <string name="connection_timeout">Connection Timeout</string>
+    <string name="oops_somethings_went_wrong">Oops! Somethings went wrong</string>
+    <string name="weather_today">Weather today</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
